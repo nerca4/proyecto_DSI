@@ -1,4 +1,4 @@
 # proyecto_DSI
 
 
-[Prueba](docs/prueba.java)
+[Prueba](docs/init.java)
